@@ -2,7 +2,7 @@
 
 The [workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/57f577e3-9a24-45e2-9937-e48b2cdf6986/en-US) is a hands-on training program designed to empower developers and AI enthusiasts to build sophisticated, context-aware AI agents using cutting-edge technologies like [Amazon Bedrock](https://aws.amazon.com/bedrock), [Strands Agents](https://strandsagents.com/latest/), and [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/).
 
-![architecture](/images/architecture.png)
+![architecture](./images/architecture.png)
 
 We're creating a **Multi-Agent Financial Advisory System** that combines specialized expertise areas through intelligent orchestration. The system mimics how professional financial advisory firms operate, with specialists collaborating under a coordinator to provide comprehensive guidance.
 
